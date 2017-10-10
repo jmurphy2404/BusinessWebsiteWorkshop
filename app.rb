@@ -32,3 +32,15 @@ end
 get '/gallery' do
   erb :gallery
 end
+
+def load_pictures
+	end
+
+get '/' do
+	"Echo"
+end
+
+def load_pictures
+	Dir.glob("public/pictures/*")
+end
+
