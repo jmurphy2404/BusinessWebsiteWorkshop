@@ -1,0 +1,244 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+/* General Custom CSS */
+
+
+/*.avia-fullwidth-portfolio .portfolio_preview_container,*/
+.tparrows{
+	display: none;
+}
+#menu-item-search{
+	display: none;
+}
+.portfolio_preview_container{
+	position: absolute;
+	z-index: 999;
+	margin-top: 0!important;
+	background: url(HTTP://t-swirlcrepe.com/wp-content/themes/enfold/images/background-images/P-BG.png);
+	top: 45px;
+	width: 85%!important;
+	left: 25px;
+	border: 5px solid #391d0e!important;
+
+}
+#header{
+top: 0px;
+/*	position: absolute;
+	bottom: -74px;*/
+}
+
+.page-id-2677 #main{
+	position: fixed;
+	width: 100%;
+}
+
+#main{
+	background: none!important;
+}
+.main_color, .main_color .site-background, .main_color .first-quote, .main_color .related_image_wrap, .main_color .gravatar img .main_color .hr_content, .main_color .news-thumb, .main_color .post-format-icon, .main_color .ajax_controlls a, .main_color .tweet-text.avatar_no, .main_color .toggler, .main_color .toggler.activeTitle:hover, .main_color #js_sort_items, .main_color.inner-entry, .main_color .grid-entry-title, .main_color .related-format-icon, .grid-entry .main_color .avia-arrow, .main_color .avia-gallery-big, .main_color .avia-gallery-big, .main_color .avia-gallery img, .main_color .grid-content, .main_color .av-share-box ul, #top .main_color .av-related-style-full .related-format-icon, .main_color .related_posts.av-related-style-full a:hover, .main_color.avia-fullwidth-portfolio .pagination .current, .main_color.avia-fullwidth-portfolio .pagination a{
+	background: none!important;
+}
+.main_color table, .main_color .widget_nav_menu ul:first-child > .current-menu-item, .main_color .widget_nav_menu ul:first-child > .current_page_item, .main_color .widget_nav_menu ul:first-child > .current-menu-ancestor, .main_color .pagination .current, .main_color .pagination a, .main_color.iconbox_top .iconbox_content, .main_color .av_promobox, .main_color .toggle_content, .main_color .toggler:hover, .main_color .related_posts_default_image, .main_color .search-result-counter, .main_color .container_wrap_meta, .main_color .avia-content-slider .slide-image, .main_color .avia-slider-testimonials .avia-testimonial-content, .main_color .avia-testimonial-arrow-wrap .avia-arrow, .main_color .news-thumb, .main_color .portfolio-preview-content, .main_color .portfolio-preview-content .avia-arrow, .main_color .av-magazine .av-magazine-entry-icon, .main_color .related_posts.av-related-style-full a, .main_color .aviaccordion-slide, .main_color.avia-fullwidth-portfolio .pagination, .main_color .isotope-item.special_av_fullwidth .av_table_col.portfolio-grid-image, .main_color .av-catalogue-list li:hover, .main_color .wp-playlist{
+	background: none!important;
+}
+.grid-entry .inner-entry{
+	box-shadow: none!important;
+}
+.content{
+/*    z-index: ;
+	overflow:auto;*/
+	padding-bottom:100px!important;
+}
+
+.responsive #top.boxed, .responsive.html_boxed.html_header_sticky #header{
+	max-width: 100%;
+}
+
+body{
+	overflow: hidden;
+}
+.boxed #wrap_all{
+/*    position: absolute!important;*/
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+#socket{
+bottom: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 99!important;
+}
+main{
+	bottom: 0px;
+	position: fixed;
+	top: 50px;
+	width: 60%;
+	overflow:auto;
+	padding-bottom: 50px;
+}
+.html_boxed #main{
+/*	position:fixed ;*/
+	bottom: 0;
+}
+#header{
+	position: fixed;
+}
+.portfolio-preview-image{
+	width: 40%;
+}
+.portfolio-preview-content{
+	width: 60%;
+}
+.page-id-2653 #js_sort_items a{
+		background: url(HTTP://t-swirlcrepe.com/wp-content/themes/enfold/images/background-images/P-BG.png);
+	border: 2px solid #391d0e!important;
+	padding: 3px 12px;
+	border-radius:2px;
+	font-size: 16px;
+	color: #391d0e;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+.page-id-2653 #js_sort_items .text-sep{
+	display: none;
+	font-size: 16px;
+	color: #391d0e;
+/*	padding-top:5px ;*/
+}
+.portfolio_preview_container .ajax_controlls a:hover{
+	color: #8a0000;
+}
+.avia-icon-list .iconlist_icon{
+	font-size: 25px;
+	height: 44px;
+	line-height: 44px;
+	margin-left: 8px;
+	margin-right: 30px;
+	text-align: center;
+	width: 44px;
+}
+.main_color .av-masonry{
+	background: #391d0e;
+}
+#top .avia_ajax_form .text_input, #top .avia_ajax_form .select, #top .avia_ajax_form .text_area{
+	padding: 3px;
+}
+.avia_ajax_form label, .modified_width:before{
+	margin-bottom: 0px;
+}
+.page-id-2690 .avia_ajax_form p{
+	margin:0 5px 0 5px;
+}
+.page-id-2690 .avia_ajax_form #avia_message_1{
+	height: 40px;
+}
+.page-id-2690 .avia_ajax_form .button{
+	min-width: 45px;
+	padding: 10px 20px;
+}
+ .page-id-2653 .bg_container{
+	background-image:url(http://t-swirlcrepe.com/wp-content/uploads/2016/03/menu-bg-copy.jpg)!important;
+}
+/*our storybg 2686*/
+.page-id-2686 .bg_container{
+background-image: url(http://t-swirlcrepe.com/wp-content/uploads/2014/10/Flour-with-some-wheat.jpg)!important;
+	
+}
+.page-id-2690 .bg_container{
+background-image: url(http://t-swirlcrepe.com/wp-content/uploads/2016/03/contactusbg.png)!important;
+	
+}
+.page-id-2741 .bg_container{
+background-image: url(http://t-swirlcrepe.com/wp-content/themes/enfold/images/background-images/join-bg.jpg)!important;
+	
+}
+.page-id-2893 .bg_container{
+background-image: url(http://t-swirlcrepe.com/wp-content/themes/enfold/images/background-images/shop-bg.jpg)!important;
+	
+}
+.page-id-2893 .grid-content{
+	background: #fff!important;
+}
+.page-id-2893 .grid-entry{
+padding-left: 5px;
+padding-right: 5px;
+}
+.grid-entry-title{
+	color: #8a0000!important;
+}
+#socket .social_bookmarks li a{
+	font-size: 16px;
+	color: #fff;
+}
+.page-id-2653 .image-overlay{
+	background: none!important;
+}
+.page-id-2741 .avia_textblock{
+	background: url("//t-swirlcrepe.com/wp-content/uploads/2014/10/h-bg-png3.png") repeat scroll left top transparent;
+	padding: 30px;
+}
+#mobile-advanced{
+	width: 85%;
+}
+/*
+Desktop Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the desktop view of your site */
+
+@media only screen and (min-width: 768px) {
+  /* Add your Desktop Styles here */
+  
+
+  
+
+}
+
+
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+  /* Add your Mobile Styles here */
+  
+  #header{
+  	bottom: 0;
+  }
+.portfolio_preview_container{
+width: 100%;
+}
+.page-id-2677 #main{
+	position: relative;
+	width: 100%;
+}
+#advanced_menu_toggle, #advanced_menu_hide{
+	color: #828282;
+}
+.responsive #top #wrap_all #header{
+	background-color: #994a00;
+}
+.content, .sidebar{
+	padding-top: 0px;
+
+}
+.unit, .units{
+	position:static ;
+}
+.sort_width_container{
+	margin: 10px 0 0 5px !important;
+}
+#socket{
+	position: relative;
+}
+.content{
+	padding-bottom: 0px!important;
+}
+.page-id-2653 .grid-entry{
+	width: 50% !important;
+}
+}
