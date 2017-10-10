@@ -1,0 +1,45 @@
+* {
+	font-family: arial black;
+
+}
+
+body {
+	background-color: #AED9E0
+}
+
+#form-background {
+	background-color: #B8F2E6;
+	opacity: .7;
+	width: 560px;
+	height: 250px;
+	margin: auto;
+	display: block;
+	border: 1px solid #FAF3DD;
+}
+
+#contact-form {
+	margin-left: 5px;
+	font-size: 15px;
+	color: black;
+}
+
+.nav-items {
+	display: inline-block;
+	margin: 0 15px 5px 15px;
+}
+
+.nav-links {
+	text-decoration: none;
+	color: #FAF3DD;
+}
+
+#navbar {
+	display: flex;
+	background-color: #5E6472;
+	opacity: .7;
+	margin-bottom: 10px;
+	border: 1px solid #FAF3DD;
+}
+
+
+
