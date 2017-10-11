@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'dotenv'
+# gem 'dotenv'
 gem 'sinatra'
-gem 'sendgrid-ruby'
+# gem 'sendgrid-ruby'
