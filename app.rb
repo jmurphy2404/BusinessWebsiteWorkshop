@@ -49,3 +49,5 @@ def load_pictures
 	Dir.glob("public/pictures/*")
 end
 
+
+
