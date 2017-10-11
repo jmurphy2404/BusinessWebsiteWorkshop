@@ -166,7 +166,7 @@ h5{
     padding: 20px;
     margin-left: 25px;
     text-align: center;
-   
+    cursor: pointer;
 }
 
 h1{
@@ -214,9 +214,25 @@ footer{
 }
 
 .description{
-    width: 400px;
-    height: 300px;
-    border: 1px solid;
+    width: 360px;
+    height: 320px;
+    border: 1px solid #FAF3DD;
     padding: 30px;
-    visibility: hidden;
+    z-index: +2;
+	position: absolute;
+/*	left: 0px;
+	top: 0px;*/
+	margin: auto;
+	display: none;
+	background-color: #5E6472;
+    opacity: .9;
+}
+
+.description p,
+.description h3 {
+	color: #FAF3DD;
+    opacity: .7;
+}
+.description h3 {
+    cursor: pointer;
 }
