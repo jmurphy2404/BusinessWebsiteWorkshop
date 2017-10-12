@@ -118,6 +118,7 @@ footer{
     background-color: #5E6472;
     opacity: .7;
     z-index: -2;
+
 }
 
 .description{
@@ -125,8 +126,27 @@ footer{
     height: 300px;
     border: 1px solid;
     padding: 30px;
-    visibility: hidden;
+    z-index: +2;
+    position: absolute;
+    margin: auto;
+    display: none;
+    background-color: #5E6472;
+    opacity: .9;
 }
+
+.description p,
+.description h3{
+    color: #FAF3DD;
+    opacity: .7;
+}
+
+.description h3{
+    cursor: pointer;
+}
+
+
+
+
 
 
 
